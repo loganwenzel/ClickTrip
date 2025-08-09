@@ -1,0 +1,32 @@
+{
+  "name": "clicktrip",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@types/js-cookie": "^3.0.6",
+    "@types/node": "^20",
+    "@types/protobufjs": "^6.0.0",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "js-cookie": "^3.0.5",
+    "next": "14.0.0",
+    "postcss": "^8",
+    "protobufjs": "^7.5.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.0.0"
+  }
+}
